@@ -14,8 +14,3 @@ Active while pressing the "v" key great for sniping
 - Aimbot
 Aimbot will always move to the head and the FOV and smoothness can be changed in the code. The aimbot is binded to the left mouse button.
 
-
-## Badges
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]([https://github.com/flaxa/CSGO-simple-cheat/blob/main/LICENSE])
