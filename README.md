@@ -17,6 +17,10 @@ Active while pressing the "v" key great for sniping
 
 Aimbot will always move to the head and the FOV and smoothness can be changed in the code. The aimbot is binded to the left mouse button.
 
+## Build
+
+To build this project create a visual studio c++ project and add the relevent header and cpp files and build
+
 ## Authors
 
 [@flaxa](https://www.github.com/flaxa)
