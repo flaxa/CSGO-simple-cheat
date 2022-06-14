@@ -18,4 +18,4 @@ Aimbot will always move to the head and the FOV and smoothness can be changed in
 ## Badges
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]([https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs](https://github.com/flaxa/CSGO-simple-cheat/blob/main/LICENSE))
