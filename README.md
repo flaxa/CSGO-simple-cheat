@@ -8,9 +8,19 @@ This is a simple CSGO cheat that will not be updated. The offsets is all that ne
 ## Features
 
 - ESP Glow
+
 Team are displayed in blue and enemys will change colour depending on health going from green to red
 - Triggerbot
+
 Active while pressing the "v" key great for sniping
 - Aimbot
+
 Aimbot will always move to the head and the FOV and smoothness can be changed in the code. The aimbot is binded to the left mouse button.
 
+## Authors
+
+[@flaxa](https://www.github.com/flaxa)
+
+
+## License
+[MIT](https://github.com/flaxa/CSGO-simple-cheat/blob/main/LICENSE)
